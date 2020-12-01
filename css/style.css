@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Garamond:700i|Fira+Sans" rel="stylesheet");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Cabin', Sans-Serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h3 {
+	font-family: 'Cormorant Garamond', Serif;
+	font-size: 50px;
+	font-style: italic;
+}
+
+h3 {
+	color: #0a043c;
+}
+
+
+h2 {
+	font-family: 'Fira Sans', Sans-Serif;
+	color: white ;
+	font-weight: lighter;
+}
+
+h4{
+	font-family: 'Fira Sans', Sans-Serif;
+	color: black ;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
